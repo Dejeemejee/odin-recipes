@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://st4.depositphotos.com/8153606/20659/i/600/depositphotos_206597810-stock-photo-traditional-uzbek-oriental-cuisine-uzbek.jpg);
+    padding: 20px;
+}
+.header {
+    display: inline-block;
+}
+h1 {
+    text-align: center;
+    margin-left: 157px;
+}
+p {
+    text-align: center;
+    margin-right: 25px;
+    font-style: italic;
+}
+section {
+    text-align: center;
+    list-style-position: inside;
+    margin-left: -35px;
+}
+.menu {
+    background-color: burlywood;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    padding-top: 30px;
+    border: 5px solid rgba(255, 255, 255, 0.1);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.list {
+    margin-top: 70px;
+}
+hr {
+    height: 2px;
+    width: 30rem;
+    background-color: rgb(124, 45, 8);
+    border-color: rgb(124, 45, 8);
+    margin-top: 20px;
+}
+a {
+    color: brown;
+}

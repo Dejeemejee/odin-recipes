@@ -42,3 +42,11 @@ hr {
 a {
     color: brown;
 }
+.recipe.menu {
+    background-color: burlywood;
+    height: fit-content;
+    padding: 20px;
+}
+.recipe.heads {
+    margin-left: auto;
+}
